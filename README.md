@@ -52,3 +52,7 @@ Roush, Carrie and Gaurav Sood. 2023. "A Gap in Our Understanding? Reconsidering 
 ### Authors
 
 Carrie Roush and Gaurav Sood
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
