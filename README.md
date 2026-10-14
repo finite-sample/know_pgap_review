@@ -55,4 +55,14 @@ Carrie Roush and Gaurav Sood
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/know_hidden](https://github.com/finite-sample/know_hidden) — Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+- [finite-sample/know_pgap_format](https://github.com/finite-sample/know_pgap_format) — How do \(biased\) guessing encouraging features and guessing agnostic coding techniques affect the partisan gap?
+- [finite-sample/know_pgap_cues](https://github.com/finite-sample/know_pgap_cues) — Partisan cues and evaluations of the same economic information \(Roush and Sood\)
+- [finite-sample/know_casablanca](https://github.com/finite-sample/know_casablanca) — The Waters of Casablanca: On Political Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+- [finite-sample/know_gains](https://github.com/finite-sample/know_gains) — Measuring Learning in Informative Processes \(Luskin, Helfer, Sood\)
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
